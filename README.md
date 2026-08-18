@@ -56,22 +56,30 @@ ENGINEERING   → Full-Stack · APIs · Architecture · Cloud
 
 </div>
 
-## `~/featured-projects`
+## `~/flagship-projects`
 
 <div align="center">
 
-**KOMFOCARE** · **BULLBEAR** · **BOLDGAINS** · **SMURF**
+<a href="https://github.com/SethDEV254/Komfocare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=Komfocare&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/SethDEV254/BullBear-Trading.co"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=BullBear-Trading.co&theme=transparent&hide_border=true" /></a>
+
+<a href="https://github.com/SethDEV254/Aura-crypto-and-Fx-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=Aura-crypto-and-Fx-Ai&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/SethDEV254/Alphanodes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=Alphanodes&theme=transparent&hide_border=true" /></a>
+
+<a href="https://github.com/SethDEV254/BOLDGAINS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=BOLDGAINS&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/SethDEV254/smurf-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=smurf-tool&theme=transparent&hide_border=true" /></a>
 
 </div>
 
-| Project | Focus |
-|---|---|
-| **KomfoCare** | Healthcare technology & digital patient services |
-| **BullBear Trading** | FinTech & trading technology |
-| **BOLDGAINS** | Product & platform engineering |
-| **SMURF** | Developer tools & experimentation |
+## `~/what-i-build`
 
-→ [Explore all repositories](https://github.com/SethDEV254?tab=repositories)
+**AI & Automation** — intelligent applications, agents and practical automation.
+
+**Web3 & FinTech** — blockchain products, decentralized systems and trading technology.
+
+**Full-Stack Platforms** — production-minded frontend, backend, APIs and data systems.
+
+**Developer Tools** — utilities and experiments designed to make engineering workflows better.
 
 ## `~/current-focus`
 
