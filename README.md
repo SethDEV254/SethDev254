@@ -60,14 +60,14 @@ ENGINEERING   → Full-Stack · APIs · Architecture · Cloud
 
 <div align="center">
 
-<a href="https://github.com/SethDEV254/Komfocare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=Komfocare&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/SethDEV254/BullBear-Trading.co"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=BullBear-Trading.co&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/SethDEV254/Komfocare"><img src="./assets/komfocare.svg" alt="Komfocare project" width="48%" /></a>
+<a href="https://github.com/SethDEV254/BullBear-Trading.co"><img src="./assets/bullbear.svg" alt="BullBear Trading project" width="48%" /></a>
 
-<a href="https://github.com/SethDEV254/Aura-crypto-and-Fx-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=Aura-crypto-and-Fx-Ai&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/SethDEV254/Alphanodes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=Alphanodes&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/SethDEV254/Aura-crypto-and-Fx-Ai"><img src="./assets/aura.svg" alt="Aura project" width="48%" /></a>
+<a href="https://github.com/SethDEV254/Alphanodes"><img src="./assets/alphanodes.svg" alt="Alphanodes project" width="48%" /></a>
 
-<a href="https://github.com/SethDEV254/BOLDGAINS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=BOLDGAINS&theme=transparent&hide_border=true" /></a>
-<a href="https://github.com/SethDEV254/smurf-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SethDEV254&repo=smurf-tool&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/SethDEV254/BOLDGAINS"><img src="./assets/boldgains.svg" alt="BOLDGAINS project" width="48%" /></a>
+<a href="https://github.com/SethDEV254/smurf-tool"><img src="./assets/smurf.svg" alt="Smurf project" width="48%" /></a>
 
 </div>
 
