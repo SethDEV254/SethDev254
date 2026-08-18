@@ -93,14 +93,27 @@ ENGINEERING   → Full-Stack · APIs · Architecture · Cloud
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SethDEV254&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethDEV254&layout=compact&hide_border=true&theme=transparent" height="170" />
+<img src="./assets/github-contributions.svg" alt="SethDEV254 GitHub contribution activity" width="900" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SethDEV254&hide_border=true&background=00000000&ring=7c3aed&fire=00e5ff&currStreakLabel=7c3aed" height="170" />
+<img src="./assets/contribution-graph.svg" alt="Developer activity matrix" width="900" />
 
 </div>
+
+```text
+ACTIVITY PIPELINE
+
+GitHub activity
+      ↓
+GitHub Actions
+      ↓
+Local SVG assets
+      ↓
+README profile
+
+NO FRAGILE STATS CARDS
+```
 
 ## `~/engineering-philosophy`
 
