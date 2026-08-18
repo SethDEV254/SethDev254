@@ -1,0 +1,29 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-contributions.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: SethDEV254
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Nairobi
+          config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
