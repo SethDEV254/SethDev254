@@ -1,19 +1,18 @@
 <div align="center">
 
 # SETHDEV254
-### AI Engineer · Web3 Developer · Software Engineer
 
-Building intelligent products, decentralized systems & modern digital experiences.
+### AI ENGINEER · WEB3 DEVELOPER · SOFTWARE ENGINEER
+
+**Building intelligent products, decentralized systems & modern digital experiences.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-SethDEV254-0d1117?style=for-the-badge&logo=github)](https://github.com/SethDEV254)
 [![Profile Views](https://komarev.com/ghpvc/?username=SethDEV254&style=for-the-badge&color=7c3aed)](https://github.com/SethDEV254)
 
 </div>
 
----
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/SethDEV254/SethDev254/main/assets/terminal.svg" alt="SethDEV254 terminal" width="900" />
+<img src="https://raw.githubusercontent.com/SethDEV254/SethDev254/main/assets/terminal.svg" alt="SethDEV254 developer terminal" width="900" />
 </div>
 
 ## `~/about`
@@ -27,6 +26,18 @@ AI            → Agents · Machine Learning · Automation
 WEB3          → Blockchain · Smart Contracts · dApps
 ENGINEERING   → Full-Stack · APIs · Architecture · Cloud
 ```
+
+## `~/expertise`
+
+<div align="center">
+
+| 🤖 AI | ⛓️ WEB3 | ⚡ ENGINEERING |
+|:---:|:---:|:---:|
+| AI Agents | Blockchain | Full-Stack |
+| ML / Automation | Smart Contracts | APIs & Backend |
+| Intelligent Systems | dApps | Architecture |
+
+</div>
 
 ## `~/tech-stack`
 
@@ -47,6 +58,12 @@ ENGINEERING   → Full-Stack · APIs · Architecture · Cloud
 
 ## `~/featured-projects`
 
+<div align="center">
+
+**KOMFOCARE** · **BULLBEAR** · **BOLDGAINS** · **SMURF**
+
+</div>
+
 | Project | Focus |
 |---|---|
 | **KomfoCare** | Healthcare technology & digital patient services |
@@ -54,7 +71,7 @@ ENGINEERING   → Full-Stack · APIs · Architecture · Cloud
 | **BOLDGAINS** | Product & platform engineering |
 | **SMURF** | Developer tools & experimentation |
 
-Explore more → [all repositories](https://github.com/SethDEV254?tab=repositories)
+→ [Explore all repositories](https://github.com/SethDEV254?tab=repositories)
 
 ## `~/current-focus`
 
@@ -64,12 +81,16 @@ Explore more → [all repositories](https://github.com/SethDEV254?tab=repositori
 - 🧰 Developer tools and engineering workflows
 - 🌍 Open-source projects and practical experimentation
 
-## `~/github-activity`
+## `~/github-analytics`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SethDEV254&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethDEV254&layout=compact&hide_border=true&theme=transparent" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SethDEV254&hide_border=true&background=00000000&ring=7c3aed&fire=00e5ff&currStreakLabel=7c3aed" height="170" />
 
 </div>
 
